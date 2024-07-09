@@ -1,6 +1,6 @@
 SUMMARY = "Nginx helper for octoprint and mjpg-streamer"
 
-LICENSE = "AGPL-3.0"
+LICENSE = "AGPL-3.0-only"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=73f1eb20517c55bf9493b7dd6e480788"
 
 PV = "1.0"

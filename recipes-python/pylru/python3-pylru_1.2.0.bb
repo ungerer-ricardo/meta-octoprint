@@ -2,7 +2,7 @@ SUMMARY = "A least recently used (LRU) cache implementation"
 
 HOMEPAGE = "https://pypi.python.org/pypi/pylru/"
 
-LICENSE = "GPLv2"
+LICENSE = "GPL-2.0-only"
 LIC_FILES_CHKSUM = "file://LICENSE.txt;md5=b234ee4d69f5fce4486a80fdaf4a4263"
 
 SRC_URI[md5sum] = "8f0050f86d1fa68bb18673de37da543b"
